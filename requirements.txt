@@ -3,7 +3,7 @@ tensorflow
 numpy
 pandas
 scikit-learn
-opencv-python-headless
+opencv-python-headless==4.9.0.80
 pillow
 matplotlib
 scikit-image
